@@ -80,3 +80,11 @@ Responses use a consistent envelope: `{ "success": true, "data": … }` / `{ "su
 - ⏭️ **Milestone 5 (Gamification):** synergy, streaks, XP/levels, badges, shields
 - ⏭️ **Milestone 6+ (Real time → Arena → PWA):** Socket.IO, nudges/SOS, web push, insights,
   Elo matchmaking, leaderboard, seasons, offline support
+
+## Team / Credits
+
+This repository is a copy of our group project **TwoGether** (originally developed at [github.com/Ishaan2105/TwoGether](https://github.com/Ishaan2105/TwoGether)).
+
+### Collaborators:
+- **Ishaan** ([@Ishaan2105](https://github.com/Ishaan2105))
+- **Pratik Ravan** ([@Pratikravan3030](https://github.com/Pratikravan3030))
